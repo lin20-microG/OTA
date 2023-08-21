@@ -1,6 +1,7 @@
 20-08-2023 - INITIAL BUILD (Productive)
 
 - Fix battery issues
+- Based on Firmware F22
 - Minor fixes
 
 
