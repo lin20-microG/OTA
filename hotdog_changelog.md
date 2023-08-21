@@ -1,3 +1,9 @@
+20-08-2023 - INITIAL BUILD (Productive)
+
+- Fix battery issues
+- Minor fixes
+
+
 16-08-2023 - INITIAL BUILD (Beta)
 
 - Pre-installed microG 0.2.28.231657
