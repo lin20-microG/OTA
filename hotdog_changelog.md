@@ -1,3 +1,12 @@
+31-08-2023 - improved interim build 08/23
+
+- Improved battery behavior
+- Slightly hardened GPS config
+- Removal of some carrier restrictions
+- Mulch System Webview 116.0.5845.114
+- Dialer patches from CalyxOS offering Signal or WA calls from the Dialer, if available
+
+
 20-08-2023 - INITIAL BUILD (Productive)
 
 - Fix battery issues
