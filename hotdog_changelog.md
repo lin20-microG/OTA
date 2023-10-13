@@ -1,3 +1,12 @@
+13-10-2023
+
+- Sec. string 2023-10-05
+- Mulch System Webview 118.0.5993.48
+- Fixes for CVE-2023-4863 and CVE-2023-5217
+- Some kernel patches
+- AuroraStore 4.3.2
+
+
 11-09-2023
 
 - Sec. string 2023-09-05
