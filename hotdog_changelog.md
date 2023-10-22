@@ -4,6 +4,7 @@
 - Mulch System Webview 118.0.5993.48
 - Fixes for CVE-2023-4863 and CVE-2023-5217
 - Some kernel patches
+- microG 0.2.29.233013
 - AuroraStore 4.3.2
 
 
