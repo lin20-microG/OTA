@@ -1,3 +1,12 @@
+12-11-2023
+
+- Sec. string 2023-11-05
+- Mulch System Webview 119.0.6045.134
+- Some kernel patches
+- microG and companion (aka Fakestore) 0.3.0.233515
+- AuroraStore 4.3.5
+
+
 13-10-2023
 
 - Sec. string 2023-10-05
