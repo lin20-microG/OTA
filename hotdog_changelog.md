@@ -1,3 +1,11 @@
+10-01-2024
+
+- Sec. string 2024-01-05
+- Mulch System Webview 120.0.6099.193
+- Dropped Calyx Dialer fork and went back to LineageOS Dialer
+- Some kernel patches
+
+
 11-12-2023
 
 - Sec. string 2023-12-05
