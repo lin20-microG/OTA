@@ -1,3 +1,17 @@
+12-05-2024
+
+- Sec. string 2024-05-05
+- Mulch System Webview 125.0.6422.46
+- Kernel patches
+
+
+07-04-2024
+
+- Sec. string 2024-04-05
+- Mulch System Webview 123.0.6312.99
+- Many kernel patches
+
+
 09-03-2024
 
 - Sec. string 2024-03-05
