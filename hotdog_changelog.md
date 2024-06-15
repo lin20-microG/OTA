@@ -1,3 +1,13 @@
+15-06-2024
+
+- Sec. string 2024-06-05
+- Mulch System Webview 126.0.6478.71
+- Many kernel patches
+- GmsCore & companion v0.3.2.240913
+- AuroraStore 4.4.4
+- AuroraDroid (deprecated) replaced with F-Droid 1.19.1
+
+
 12-05-2024
 
 - Sec. string 2024-05-05
