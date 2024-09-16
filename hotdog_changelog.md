@@ -1,3 +1,19 @@
+16-09-2024
+
+- Sec. string 2024-09-05
+- Mulch System Webview 128.0.6613.146
+- Many kernel patches
+- AuroraStore 4.6.0
+- Expat: Fixes for CVE-2024-28757, CVE-2024-45490, CVE-2024-45491, CVE-2024-45492
+
+
+10-08-2024
+
+- Sec. string 2024-08-05
+- Mulch System Webview 127.0.6533.103
+- Many kernel patches
+
+
 16-07-2024
 
 - Sec. string 2024-07-05
