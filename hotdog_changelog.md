@@ -1,3 +1,12 @@
+11-11-2024
+
+- Sec. string 2024-11-05
+- Mulch System Webview 130.0.6723.102
+- Many kernel patches
+- AuroraStore 4.6.2
+- F-Droid 1.20.1 (back to original APK)
+
+
 13-10-2024
 
 - Sec. string 2024-10-05
