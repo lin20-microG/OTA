@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1731868603,
+      "filename": "lineage-20.0-20241117-UNOFFICIAL-microG-signed-beyond1lte.zip",
+      "id": "ada12bf8fc11dda757a53b1a02fa5670c94b01c5",
+      "romtype": "UNOFFICIAL",
+      "size": 1171381475,
+      "url": "https://sourceforge.net/projects/lin20-microg/files/hotdog/lineage-20.0-20241117-UNOFFICIAL-microG-signed-beyond1lte.zip/download",
+      "version": "20.0"
+    }
+  ]
+}
