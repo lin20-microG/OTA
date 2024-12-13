@@ -1,3 +1,18 @@
+13-12-2024 - Interim urgent fix
+
+- microG & companion v0.3.5.240913
+- Updated signature spoofing patch
+
+
+10-12-2024
+
+- Sec. string 2024-12-05
+- Mulch System Webview 131.0.6778.108
+- Some kernel patches
+- microG & companion v0.3.4.240913
+- F-Droid 1.21.1
+
+
 11-11-2024
 
 - Sec. string 2024-11-05
