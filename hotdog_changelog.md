@@ -1,3 +1,10 @@
+14-01-2025
+
+- Sec. string 2025-01-05
+- AXP.OS System Webview 131.0.6778.260 (interim version)
+- AuroraStore 4.6.4
+
+
 13-12-2024 - Interim urgent fix
 
 - microG & companion v0.3.5.240913
