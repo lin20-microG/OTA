@@ -1,3 +1,10 @@
+14-05-2025
+
+- Sec. string 2025-05-05
+- microG GmcCore & companion v0.3.7.250932
+- AOSmium System Webview 135.0.7049.100
+
+
 16-04-2025
 
 - Sec. string 2025-04-05
