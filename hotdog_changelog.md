@@ -1,3 +1,12 @@
+08-08-2025
+
+- Sec. string 2025-08-05
+- AOSmium System Webview 138.0.7204.168
+- AuroraStore 4.7.4
+- F-Droid 1.23.0
+- microG GmcCore & companion v0.3.9.250932
+
+
 10-06-2025
 
 - Sec. string 2025-06-05
