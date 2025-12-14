@@ -1,3 +1,10 @@
+14-12-2025
+
+- Sec. string 2025-12-05
+- AOSmium System Webview 143.0.7499.109
+- microG GmsCore & companion v0.3.11.250932
+
+
 14-11-2025
 
 - Sec. string 2025-11-05
