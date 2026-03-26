@@ -1,3 +1,13 @@
+20-03-2026
+
+- Custom build string 2026-03-01
+- Additional info in Settigs about Custom build string
+- AOSmium System Webview 146.0.7680.119
+- AuroraStore 4.8.1
+- microG GmsCore & companion v0.3.13.250932
+- Timezone data 2025 update
+
+
 14-12-2025
 
 - Sec. string 2025-12-05
