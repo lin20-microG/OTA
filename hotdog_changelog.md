@@ -1,3 +1,10 @@
+12-05-2026
+
+- Custom build string 2026-05-01
+- AOSmium System Webview 148.0.7778.96
+- microG GmsCore & companion v0.3.15.250932
+
+
 13-04-2026
 
 - Custom build string 2026-04-01
