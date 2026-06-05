@@ -1,3 +1,11 @@
+05-06-2026
+
+- Custom build string 2026-06-01
+- AOSmium System Webview 148.0.7778.178
+- F-Droid 1.23.2
+- AuroraStore 4.8.3
+
+
 12-05-2026
 
 - Custom build string 2026-05-01
